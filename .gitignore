@@ -1,0 +1,19 @@
+# Personal folders
+Personal/
+Journal/
+Archive/
+Career/
+
+# Sub folders
+Attachments/Career/
+Attachments/Personal/
+
+# Files
+/Inbox.md
+
+# Obsidian settings
+.obsidian/
+Templates/
+
+# Mac files
+**/.DS_Store
